@@ -1,1 +1,2 @@
 Primo file di test
+Fix line from text vi
