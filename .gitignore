@@ -4,5 +4,6 @@ temp
 # Files
 *.log
 *.docx
+*.pdf
 
 #Exception
