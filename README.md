@@ -11,7 +11,7 @@ questa guida è pensata appositamente per te.
 Impara a gestire i tuoi progetti di sviluppo software in modo efficiente, 
 tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvendo i problemi più comuni.
 
-##Git in Locale 🖥️ 
+# Git in Locale 🖥️ 
 
 	- Introduzione a Git
 	- Installazione di Git sul tuo sistema operativo
@@ -22,7 +22,7 @@ tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvend
 	- Git escludere file e cartelle
 	- Git branch, checkout, merge
 
-##Git remote 🌐
+# Git remote 🌐
 
 	- Inizializzazione di un nuovo repository
 	- Aggiunta e Committ delle Modifiche
