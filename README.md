@@ -37,7 +37,6 @@ tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvend
 	- Configurare file .gitignore
 	- Evitare di tracciare file non necessari
 	- Comandi Avanzati
-
 ## 
 Questa guida completa ai comandi base di Git,
 ti fornirà una solida base per iniziare a utilizzare Git in modo efficace e affrontare progetti di sviluppo software
