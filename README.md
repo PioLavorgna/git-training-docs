@@ -14,19 +14,12 @@ tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvend
 #Git in Locale 🖥️ 
 
 	- Introduzione a Git
-	
 	- Installazione di Git sul tuo sistema operativo
-	
 	- Configurazione iniziale di Git
-	
 	- Creazione file su Git
-	
 	- Schema comandi
-	
 	- Rimozione file da Git
-	
 	- Git escludere file e cartelle
-	
 	- Git branch, checkout, merge
 
 #Git remote 🌐
