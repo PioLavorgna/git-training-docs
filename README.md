@@ -25,6 +25,7 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 #### Tech stack:
 - FE Website & mobile app: Esempi di tech stack
 - BE : Esempi di tech stack
+- BE : Esempi di tech stack
 
 <!--
 **https://github.com/PioLavorgna/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
