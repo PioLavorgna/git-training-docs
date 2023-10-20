@@ -4,39 +4,43 @@
 <a href="https://www.linkedin.com/in/piolavorgna/" target="_blank">![LinkedIn](https://img.shields.io/badge/-PioLavorgna-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
 [![GitHub Pio_Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
 
-### 🌎 Project  [💻Live Version](https://github.com/PioLavorgna/git-training-docs) [📄 Repo](https://github.com/PioLavorgna/git-training-docs)
-Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business.
+### 🌎 Project  [🏆Tutorial](https://github.com/PioLavorgna/git-training-docs) [📄 Repo](https://github.com/PioLavorgna/git-training-docs)
 
-- FE Website & mobile app: Esempi di tech stack
-- BE : Esempi di tech stack
-- APIs : Esempi di tech stack
+Se sei nuovo nell'uso di Git o hai bisogno di una panoramica completa dei comandi fondamentali, 
+questa guida è pensata appositamente per te. 
+Impara a gestire i tuoi progetti di sviluppo software in modo efficiente, 
+tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvendo i problemi più comuni.
 
-### 🍴 Project  [💻Full Stack Repo ](https://github.com/PioLavorgna/git-training-docs)
-Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business.
+#Git in Locale 🖥️ 
+	- Introduzione a Git
+	- Installazione di Git sul tuo sistema operativo
+	- Configurazione iniziale di Git
+	- Creazione file su Git
+	- Schema comandi
+	- Rimozione file da Git
+	- Git escludere file e cartelle
+	- Git branch, checkout, merge
 
-#### Tech stack:
-- FE Website:Esempi di tech stack
-- BE : Esempi di tech stack
-- Authentication: Esempi di tech stack
+#Git remote 🌐
+	- Inizializzazione di un nuovo repository
+	- Aggiunta e Committ delle Modifiche
+	- Aggiunta di file al repository
+	- Committ delle modifiche per creare uno "snapshot" nel tempo
+	- Navigazione nella Storia
+	- Visualizzazione della cronologia dei commit
+	- Recupero di versioni precedenti dei tuoi file
+	- Branching e Fusione (Branches e Merging)
+	- Risoluzione dei conflitti di merge
+	- Strumenti e approcci comuni
+	- Configurare file .gitignore
+	- Evitare di tracciare file non necessari
+	- Comandi Avanzati
 
-#### Tech stack:
-- FE Website & mobile app: Esempi di tech stack
-- BE : Esempi di tech stack
-- BE : Esempi di tech stack
+Questa guida completa ai comandi base di Git,
+ti fornirà una solida base per iniziare a utilizzare Git in modo efficace e affrontare progetti di sviluppo software
+in modo più organizzato e collaborativo. 
+Che tu sia uno sviluppatore principiante o esperto, 
+questa guida ti sarà utile.
 
-<!--
-**https://github.com/PioLavorgna/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
