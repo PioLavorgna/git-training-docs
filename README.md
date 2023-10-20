@@ -1,17 +1,17 @@
 
-## Welcome to PioLavorgna’s GitHub page! 🔥
+# Welcome to PioLavorgna’s GitHub page! 🔥
 
 <a href="https://www.linkedin.com/in/piolavorgna/" target="_blank">![LinkedIn](https://img.shields.io/badge/-PioLavorgna-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
 [![GitHub Pio_Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
 
-### 🌎 Project  [🏆Tutorial](https://github.com/PioLavorgna/git-training-docs) [📄 Repo](https://github.com/PioLavorgna/git-training-docs)
+## 🌎 Project  [🏆Tutorial](https://github.com/PioLavorgna/git-training-docs)
 
 Se sei nuovo nell'uso di Git o hai bisogno di una panoramica completa dei comandi fondamentali, 
 questa guida è pensata appositamente per te. 
 Impara a gestire i tuoi progetti di sviluppo software in modo efficiente, 
 tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvendo i problemi più comuni.
 
-# Git in Locale 🖥️ 
+## Git in Locale 🖥️ 
 
 	- Introduzione a Git
 	- Installazione di Git sul tuo sistema operativo
@@ -22,7 +22,7 @@ tenendo traccia delle modifiche, collaborando con altri sviluppatori e risolvend
 	- Git escludere file e cartelle
 	- Git branch, checkout, merge
 
-# Git remote 🌐
+## Git remote 🌐
 
 	- Inizializzazione di un nuovo repository
 	- Aggiunta e Committ delle Modifiche
