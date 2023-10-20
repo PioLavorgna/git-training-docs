@@ -1,7 +1,7 @@
 
 ## Welcome to PioLavorgna’s GitHub page! 🔥
 
-[![Linkedin: Pio_Lavorgna](https://img.shields.io/badge/-PioLavorgna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piolavorgna/)](https://www.linkedin.com/in/piolavorgna/){:target="_blank"}
+<a href="https://www.linkedin.com/in/piolavorgna/" target="_blank">![LinkedIn](https://img.shields.io/badge/-PioLavorgna-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
 [![GitHub Pio_Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
 
 ### 🌎 Project  [💻Live Version](https://github.com/PioLavorgna/git-training-docs) [📄 Repo](https://github.com/PioLavorgna/git-training-docs)
